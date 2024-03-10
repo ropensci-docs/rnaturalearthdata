@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d0e161eafccd28c04b04f7fe7bd054f06b3b4ec9",
+    "author": "Philippe Massicotte <pmassicotte@hotmail.com>",
+    "time": "2024-02-09 19:41:27",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 1.0.0.9000\n"
+  },
+  "repo": "https://github.com/ropensci/rnaturalearthdata",
+  "pkg": "rnaturalearthdata"
+}
