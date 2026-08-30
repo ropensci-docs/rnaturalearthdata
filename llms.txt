@@ -1,0 +1,41 @@
+# rnaturalearthdata
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/rnaturalearthdata)](https://CRAN.R-project.org/package=rnaturalearthdata)
+[![R-CMD-check](https://github.com/ropensci/rnaturalearthdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ropensci/rnaturalearthdata/actions/workflows/R-CMD-check.yaml)
+
+An R package to store data for the
+[rnaturalearth](https://github.com/ropensci/rnaturalearth) package.
+
+Data in `rnaturalearth` packages :
+
+- [rnaturalearth](https://github.com/ropensci/rnaturalearth) : one low
+  resolution example file & data can be downloaded from NaturalEarth
+  using `ne_download()`
+- [rnaturalearthdata](https://github.com/ropensci/rnaturalearthdata) :
+  low (scale 110) and medium resolution (scale 50) files
+- [rnaturalearthhires](https://github.com/ropensci/rnaturalearthhires) :
+  high resolution (scale 10) files
+
+# Package index
+
+## All functions
+
+- [`coastline110`](https://docs.ropensci.org/rnaturalearthdata/reference/coastlines.md)
+  [`coastline50`](https://docs.ropensci.org/rnaturalearthdata/reference/coastlines.md)
+  : world coastlines from Natural Earth
+- [`countries110`](https://docs.ropensci.org/rnaturalearthdata/reference/countries.md)
+  [`countries50`](https://docs.ropensci.org/rnaturalearthdata/reference/countries.md)
+  : world country polygons from Natural Earth
+- [`map_units110`](https://docs.ropensci.org/rnaturalearthdata/reference/map_units.md)
+  [`map_units50`](https://docs.ropensci.org/rnaturalearthdata/reference/map_units.md)
+  : world map_unit polygons from Natural Earth
+- [`sovereignty110`](https://docs.ropensci.org/rnaturalearthdata/reference/sovereignty.md)
+  [`sovereignty50`](https://docs.ropensci.org/rnaturalearthdata/reference/sovereignty.md)
+  : world sovereignty polygons from Natural Earth
+- [`states50`](https://docs.ropensci.org/rnaturalearthdata/reference/states.md)
+  : state (admin level 1) polygons from Natural Earth
+- [`tiny_countries110`](https://docs.ropensci.org/rnaturalearthdata/reference/tiny_countries.md)
+  [`tiny_countries50`](https://docs.ropensci.org/rnaturalearthdata/reference/tiny_countries.md)
+  : tiny countries points from Natural Earth
+

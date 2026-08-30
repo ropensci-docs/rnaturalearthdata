@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "ff4d891f74265473ae2c936dcfeb0c9afeac6631",
+    "author": "Philippe Massicotte <pmassicotte@hotmail.com>",
+    "time": "2025-02-28T21:22:25Z",
+    "files": 1,
+    "merge": false,
+    "message": "docs(README.md): add package title and improve formatting for clarity\n"
+  },
+  "repo": "https://github.com/ropensci/rnaturalearthdata",
+  "pkg": "rnaturalearthdata",
+  "time": "2026-08-30T07:22:56Z"
+}
